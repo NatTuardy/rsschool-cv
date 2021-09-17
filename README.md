@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NatTuardy.github.io/rsschool-cv/cv
