@@ -25,5 +25,23 @@ ________________________________________________________________________________
 * React, Redux, Redux Toolkit, React Hooks
 * WebPack, Gulp
 * GIT, GitHub
+* Node.js, TypeScript
 * VSCode, Figma, Sony Vegas Pro, Adobe Photoshop
+__________________________________________________________________________________
+
+## COURSES
+
+1. RS School Course «JavaScript/Front-end Stage 1» (in progress...)
+2. Vladilen INC Course «JavaScript Junior Frontend Developer» (online course from Vladilen Minin)
+3. Go-It Bootcamp Course «Full Stack Developer»
+__________________________________________________________________________________
+
+## LANGUAGES
+
+**English:** Intermediate
+**Ukrainian:** Advanced
+**Russian:** Advanced
+__________________________________________________________________________________
+
+
 
